@@ -1,7 +1,7 @@
 # DIO
 # Introdução ao React Native
 
-![Image]<img src="https://user-images.githubusercontent.com/70589176/173921318-f504a0b8-97e3-400d-9869-57855e7a0b5a.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/70589176/173921318-f504a0b8-97e3-400d-9869-57855e7a0b5a.jpg" width="400">
 
 # Conteúdo
 
